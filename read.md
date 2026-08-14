@@ -1,13 +1,3 @@
-# Yuntian Automatic Delivery
-
-Yuntian Automatic Delivery is a unified advertising management and delivery platform. It consolidates shared admin capabilities and media delivery workflows into a Vue 3, TypeScript, Pinia, Element Plus, and Vite application.
-
-## Project Focus
-
-- Unified entry for advertising management, delivery, reports, materials, assets, tasks, tools, and system management.
-- Business modules are organized by product domain, not by legacy project source.
-- New business code should follow the refactor rules in `AGENTS.md` and `docs/refactor/`.
-
 ## Tech Stack
 
 - Vue 3 + TypeScript + Vite
